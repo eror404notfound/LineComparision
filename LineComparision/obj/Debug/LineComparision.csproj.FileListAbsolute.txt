@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\LineComparision\LineComparision\bin\Debug\LineComparision.exe.config
+C:\Users\lenovo\source\repos\LineComparision\LineComparision\bin\Debug\LineComparision.exe
+C:\Users\lenovo\source\repos\LineComparision\LineComparision\bin\Debug\LineComparision.pdb
+C:\Users\lenovo\source\repos\LineComparision\LineComparision\obj\Debug\LineComparision.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\LineComparision\LineComparision\obj\Debug\LineComparision.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\LineComparision\LineComparision\obj\Debug\LineComparision.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LineComparision\LineComparision\obj\Debug\LineComparision.exe
+C:\Users\lenovo\source\repos\LineComparision\LineComparision\obj\Debug\LineComparision.pdb
